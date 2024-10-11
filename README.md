@@ -33,3 +33,6 @@ Beyond this, there is also a grouping of sales on price $28.07 which represents 
 
 ![image](https://github.com/user-attachments/assets/091bc042-8c5d-4258-95f5-3cfa3712f3a0)
 
+**REFERENCES**
+1) DataCamp Certification Page: https://app.datacamp.com/certification/get-started/associate-data-analyst/overview
+
